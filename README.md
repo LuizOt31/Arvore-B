@@ -1,6 +1,7 @@
 <h1>Árvore B</h1>
 Implementação de uma árvore B para uma matéria da faculdade feita por mim e meus colegas Matheus e Guilherme
 GitHub deles:
+
 -  [Github Matheus]
 -  [Github Guilherme]
 
@@ -19,4 +20,4 @@ Nesse projeto nós não colocamos a funcionalidade com arquivos.
 
 
 [Github Guilherme]:https://github.com/GuilhermeWisniewski
-[Github Metheus]: https://github.com/matheusymm
+[Github Metheus]:https://github.com/matheusymm
