@@ -5,13 +5,13 @@ GitHub deles:
 -  [Github Matheus]
 -  [Github Guilherme]
 
-##Funcionalidades Implementadas
+## Funcionalidades Implementadas
 -  Inserção
 -  Remoção
 -  Busca
 -  Quantidade de nós e de chaves
   
-##O que é uma Árvore B?
+## O que é uma Árvore B?
 Uma árvore de múltiplos caminhos balanceada bastante usada para manipulação de dados com arquivos.
 Nesse projeto nós não colocamos a funcionalidade com arquivos.
 
