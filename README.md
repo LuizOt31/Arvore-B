@@ -3,7 +3,6 @@ Implementação de uma árvore B para uma matéria da faculdade feita por mim e 
 GitHub deles:
 
 -  [Github Matheus]
-  
 -  [Github Guilherme]
 
 ##Funcionalidades Implementadas
@@ -21,4 +20,4 @@ Nesse projeto nós não colocamos a funcionalidade com arquivos.
 
 
 [Github Guilherme]:https://github.com/GuilhermeWisniewski
-[Github Metheus]:https://github.com/matheusymm
+[Github Matheus]:https://github.com/matheusymm
